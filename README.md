@@ -1,6 +1,6 @@
 # UFOs
 
-###Overview of Project
+### Overview of Project
 This project utilized the data in a .json file that had a list of thousands of UFO sightings by "date, city, state, country, duration of sighting, shape, & comments". The idea was to build a website that linked a style.css, app.js & a data.js file so we could filter the table on the html website. The site also had styling and formatting to have a crisp look. With this website we transformed the data.js file from a list of thousands of variables that was hard to analyze to an easy to use filtered table based on user input!
 
 
