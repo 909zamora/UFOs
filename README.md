@@ -9,6 +9,6 @@ In order to filter the table, you simply enter the text that you want to search 
 
 
 ### Summary
-One of the drawbacks of this design is that the table is very messy when you first load the web page. All of the data loads before you even begin to filter and this is an overload of information for the user. I would suggest not showing a table until the user enters filters and instead display a message that reads "Filter the data by Date, city, state, country & shape of UFO in the filters to the left" But even then, it would be hard to find any trends on the data by simply filtering for random variables. It would be nice to show a chart that showed the dates, cities, states, countries & ufo shapes with the most activity! That way the end user can look for speicific filters that have the most cases of UFO sightings. 
+One of the drawbacks of this design is that the table is very messy when you first load the web page. All of the data loads before you even begin to filter and this is an overload of information for the user. I would suggest not showing a table until the user enters filters and instead display a message that reads "Filter the data by Date, city, state, country & shape of UFO in the filters to the left" But even then, it would be hard to find any trends on the data by simply filtering for random variables. It would be nice to show a chart that showed the dates, cities, states, countries & ufo shapes with the most activity! That way the end user can look for specific filters that have the most cases of UFO sightings. 
 
 
