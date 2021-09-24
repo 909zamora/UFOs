@@ -5,7 +5,9 @@ This project utilized the data in a .json file that had a list of thousands of U
 
 
 ### Results
-In order to filter the table, you simply enter the text that you want to search for, this can be done in each subfilter, there are 5 filters provided, "date, city, state, country, shape". In the image here: (https://github.com/909zamora/UFOs/blob/main/static/images/Filters.PNG) we can see that I filtered by date and city and the only search results was the one from round rock on 1/10/2010. Easy!
+In order to filter the table, you simply enter the text that you want to search for, this can be done in each subfilter, there are 5 filters provided, "date, city, state, country, shape". In the image below: (https://github.com/909zamora/UFOs/blob/main/static/images/Filters.PNG) we can see that I filtered by date and city and the only search results was the one from round rock on 1/10/2010. Easy!
+![Filters](https://user-images.githubusercontent.com/80786853/134725139-093a66fa-06ef-4f9f-901e-48bd7bdc8ce0.PNG)
+
 
 
 ### Summary
